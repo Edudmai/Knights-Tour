@@ -1,0 +1,1414 @@
+Starting at:		 2022-09-14 13:35:41.774156 
+
+Starting… 
+Position:			 (0, 0) 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 0.16989398002624512 secs 
+Total Progress:		 [____________________] 0.0% 
+Current Progress:	 [____________________] 0.0% 
+Results Found:		 0 
+Active TODOs:		 2210 
+TODOs Completed:	 1005 
+Average iteration:	 0.0 
+Saving… 
+Starting at:		 2022-09-14 13:47:25.342161 
+
+Starting… 
+Position:			 (0, 0) 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 0.15512609481811523 secs 
+Total Progress:		 [____________________] 0.0% 
+Current Progress:	 [____________________] 0.0% 
+Results Found:		 0 
+Active TODOs:		 1939 
+TODOs Completed:	 864 
+Average iteration:	 0.0 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 5.454237222671509 secs 
+Total Progress:		 [____________________] 1.336811930114436% 
+Current Progress:	 [####________________] 21.388990881830978% 
+Results Found:		 0 
+Active TODOs:		 10918 
+TODOs Completed:	 5684 
+Average iteration:	 12.833394529098586 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 10.563529968261719 secs 
+Total Progress:		 [____________________] 1.3829455420075114% 
+Current Progress:	 [####________________] 22.127128672120183% 
+Results Found:		 0 
+Active TODOs:		 12958 
+TODOs Completed:	 6941 
+Average iteration:	 13.27627720327211 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 15.753448247909546 secs 
+Total Progress:		 [____________________] 1.415166712466795% 
+Current Progress:	 [####________________] 22.64266739946872% 
+Results Found:		 0 
+Active TODOs:		 14577 
+TODOs Completed:	 7988 
+Average iteration:	 13.585600439681231 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 20.83138418197632 secs 
+Total Progress:		 [____________________] 1.442121617369415% 
+Current Progress:	 [####________________] 23.07394587791064% 
+Results Found:		 0 
+Active TODOs:		 15911 
+TODOs Completed:	 8875 
+Average iteration:	 13.844367526746382 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 25.998058080673218 secs 
+Total Progress:		 [____________________] 1.461141010518038% 
+Current Progress:	 [####________________] 23.37825616828861% 
+Results Found:		 0 
+Active TODOs:		 16968 
+TODOs Completed:	 9671 
+Average iteration:	 14.026953700973165 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 31.169127225875854 secs 
+Total Progress:		 [____________________] 1.4766780630756349% 
+Current Progress:	 [####________________] 23.626849009210158% 
+Results Found:		 0 
+Active TODOs:		 17941 
+TODOs Completed:	 10452 
+Average iteration:	 14.176109405526095 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 36.2558650970459 secs 
+Total Progress:		 [____________________] 1.4962892643786898% 
+Current Progress:	 [####________________] 23.940628230059037% 
+Results Found:		 0 
+Active TODOs:		 19027 
+TODOs Completed:	 11168 
+Average iteration:	 14.364376938035424 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 41.31802010536194 secs 
+Total Progress:		 [____________________] 1.5187092787218022% 
+Current Progress:	 [####________________] 24.299348459548835% 
+Results Found:		 0 
+Active TODOs:		 20361 
+TODOs Completed:	 12036 
+Average iteration:	 14.5796090757293 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 46.39748406410217 secs 
+Total Progress:		 [____________________] 1.5324882833317657% 
+Current Progress:	 [####________________] 24.51981253330825% 
+Results Found:		 0 
+Active TODOs:		 21266 
+TODOs Completed:	 12660 
+Average iteration:	 14.711887519984952 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 51.466522216796875 secs 
+Total Progress:		 [____________________] 1.5453261065740198% 
+Current Progress:	 [####________________] 24.725217705184317% 
+Results Found:		 0 
+Active TODOs:		 22179 
+TODOs Completed:	 13347 
+Average iteration:	 14.83513062311059 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 56.58813738822937 secs 
+Total Progress:		 [____________________] 1.5559370685269964% 
+Current Progress:	 [####________________] 24.894993096431943% 
+Results Found:		 0 
+Active TODOs:		 22937 
+TODOs Completed:	 14006 
+Average iteration:	 14.936995857859166 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 1.7508323192596436 secs 
+Total Progress:		 [____________________] 1.5655506298757178% 
+Current Progress:	 [#####_______________] 25.048810078011485% 
+Results Found:		 0 
+Active TODOs:		 23673 
+TODOs Completed:	 14593 
+Average iteration:	 15.02928604680689 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 6.948508262634277 secs 
+Total Progress:		 [____________________] 1.5813634676385233% 
+Current Progress:	 [#####_______________] 25.301815482216373% 
+Results Found:		 0 
+Active TODOs:		 24698 
+TODOs Completed:	 15150 
+Average iteration:	 15.181089289329824 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 12.067161083221436 secs 
+Total Progress:		 [____________________] 1.5914527555432882% 
+Current Progress:	 [#####_______________] 25.463244088692612% 
+Results Found:		 0 
+Active TODOs:		 25361 
+TODOs Completed:	 15735 
+Average iteration:	 15.277946453215566 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 17.194478273391724 secs 
+Total Progress:		 [____________________] 1.6010654300125458% 
+Current Progress:	 [#####_______________] 25.617046880200732% 
+Results Found:		 0 
+Active TODOs:		 26089 
+TODOs Completed:	 16309 
+Average iteration:	 15.37022812812044 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 22.47147536277771 secs 
+Total Progress:		 [____________________] 1.6104379291437685% 
+Current Progress:	 [#####_______________] 25.767006866300296% 
+Results Found:		 0 
+Active TODOs:		 26760 
+TODOs Completed:	 16842 
+Average iteration:	 15.460204119780178 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 27.64669418334961 secs 
+Total Progress:		 [____________________] 1.6171906517035244% 
+Current Progress:	 [#####_______________] 25.87505042725639% 
+Results Found:		 0 
+Active TODOs:		 27272 
+TODOs Completed:	 17289 
+Average iteration:	 15.525030256353835 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 32.899880170822144 secs 
+Total Progress:		 [____________________] 1.6231677548909969% 
+Current Progress:	 [#####_______________] 25.97068407825595% 
+Results Found:		 0 
+Active TODOs:		 27728 
+TODOs Completed:	 17766 
+Average iteration:	 15.582410446953572 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 38.207032203674316 secs 
+Total Progress:		 [____________________] 1.6305482432894007% 
+Current Progress:	 [#####_______________] 26.08877189263041% 
+Results Found:		 0 
+Active TODOs:		 28328 
+TODOs Completed:	 18370 
+Average iteration:	 15.653263135578248 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 43.62307929992676 secs 
+Total Progress:		 [____________________] 1.6368473982751635% 
+Current Progress:	 [#####_______________] 26.189558372402615% 
+Results Found:		 0 
+Active TODOs:		 28822 
+TODOs Completed:	 18959 
+Average iteration:	 15.71373502344157 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 49.04052138328552 secs 
+Total Progress:		 [____________________] 1.6480830576559544% 
+Current Progress:	 [#####_______________] 26.36932892249527% 
+Results Found:		 0 
+Active TODOs:		 29653 
+TODOs Completed:	 19445 
+Average iteration:	 15.821597353497165 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 54.44937705993652 secs 
+Total Progress:		 [____________________] 1.6565367225104364% 
+Current Progress:	 [#####_______________] 26.504587560166982% 
+Results Found:		 0 
+Active TODOs:		 30274 
+TODOs Completed:	 19860 
+Average iteration:	 15.902752536100188 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 59.691994190216064 secs 
+Total Progress:		 [____________________] 1.6641828117237953% 
+Current Progress:	 [#####_______________] 26.626924987580725% 
+Results Found:		 0 
+Active TODOs:		 30904 
+TODOs Completed:	 20283 
+Average iteration:	 15.976154992548436 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 5.1498823165893555 secs 
+Total Progress:		 [____________________] 1.672723213813947% 
+Current Progress:	 [#####_______________] 26.76357142102315% 
+Results Found:		 0 
+Active TODOs:		 31573 
+TODOs Completed:	 20819 
+Average iteration:	 16.05814285261389 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 10.578859090805054 secs 
+Total Progress:		 [____________________] 1.679931141484272% 
+Current Progress:	 [#####_______________] 26.87889826374835% 
+Results Found:		 0 
+Active TODOs:		 32160 
+TODOs Completed:	 21345 
+Average iteration:	 16.127338958249013 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 15.988651037216187 secs 
+Total Progress:		 [____________________] 1.6873715091190358% 
+Current Progress:	 [#####_______________] 26.997944145904572% 
+Results Found:		 0 
+Active TODOs:		 32754 
+TODOs Completed:	 21857 
+Average iteration:	 16.198766487542745 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 21.394856214523315 secs 
+Total Progress:		 [____________________] 1.6937860382004923% 
+Current Progress:	 [#####_______________] 27.100576611207877% 
+Results Found:		 0 
+Active TODOs:		 33301 
+TODOs Completed:	 22368 
+Average iteration:	 16.260345966724728 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 26.670345306396484 secs 
+Total Progress:		 [____________________] 1.6995719448224182% 
+Current Progress:	 [#####_______________] 27.193151117158692% 
+Results Found:		 0 
+Active TODOs:		 33828 
+TODOs Completed:	 22870 
+Average iteration:	 16.315890670295214 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 32.3118052482605 secs 
+Total Progress:		 [____________________] 1.7037199154115144% 
+Current Progress:	 [#####_______________] 27.25951864658423% 
+Results Found:		 0 
+Active TODOs:		 34157 
+TODOs Completed:	 23366 
+Average iteration:	 16.355711187950536 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 37.85136008262634 secs 
+Total Progress:		 [____________________] 1.7093141995265861% 
+Current Progress:	 [#####_______________] 27.34902719242538% 
+Results Found:		 0 
+Active TODOs:		 34658 
+TODOs Completed:	 23862 
+Average iteration:	 16.40941631545523 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 43.256389141082764 secs 
+Total Progress:		 [____________________] 1.7166764870134787% 
+Current Progress:	 [#####_______________] 27.46682379221566% 
+Results Found:		 0 
+Active TODOs:		 35252 
+TODOs Completed:	 24326 
+Average iteration:	 16.480094275329396 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 48.61879324913025 secs 
+Total Progress:		 [____________________] 1.7257694303158326% 
+Current Progress:	 [#####_______________] 27.612310885053322% 
+Results Found:		 0 
+Active TODOs:		 35985 
+TODOs Completed:	 24768 
+Average iteration:	 16.567386531031993 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 54.14230513572693 secs 
+Total Progress:		 [____________________] 1.7324636431647327% 
+Current Progress:	 [#####_______________] 27.719418290635723% 
+Results Found:		 0 
+Active TODOs:		 36560 
+TODOs Completed:	 25220 
+Average iteration:	 16.631650974381433 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 59.876726150512695 secs 
+Total Progress:		 [____________________] 1.7371623300356867% 
+Current Progress:	 [#####_______________] 27.794597280570986% 
+Results Found:		 0 
+Active TODOs:		 36936 
+TODOs Completed:	 25680 
+Average iteration:	 16.676758368342593 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 5.419569253921509 secs 
+Total Progress:		 [____________________] 1.7423044627862938% 
+Current Progress:	 [#####_______________] 27.8768714045807% 
+Results Found:		 0 
+Active TODOs:		 37348 
+TODOs Completed:	 26124 
+Average iteration:	 16.72612284274842 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 10.936081171035767 secs 
+Total Progress:		 [____________________] 1.7472059109426226% 
+Current Progress:	 [#####_______________] 27.95529457508196% 
+Results Found:		 0 
+Active TODOs:		 37770 
+TODOs Completed:	 26567 
+Average iteration:	 16.773176745049177 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 16.326354265213013 secs 
+Total Progress:		 [____________________] 1.7520213277391723% 
+Current Progress:	 [#####_______________] 28.032341243826757% 
+Results Found:		 0 
+Active TODOs:		 38148 
+TODOs Completed:	 26984 
+Average iteration:	 16.819404746296055 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 21.840248107910156 secs 
+Total Progress:		 [____________________] 1.7559732730156252% 
+Current Progress:	 [#####_______________] 28.095572368250004% 
+Results Found:		 0 
+Active TODOs:		 38483 
+TODOs Completed:	 27420 
+Average iteration:	 16.857343420950002 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 27.458109378814697 secs 
+Total Progress:		 [____________________] 1.7592771841068264% 
+Current Progress:	 [#####_______________] 28.148434945709223% 
+Results Found:		 0 
+Active TODOs:		 38742 
+TODOs Completed:	 27733 
+Average iteration:	 16.889060967425532 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 32.4856071472168 secs 
+Total Progress:		 [____________________] 1.7622858455096984% 
+Current Progress:	 [#####_______________] 28.196573528155174% 
+Results Found:		 0 
+Active TODOs:		 39006 
+TODOs Completed:	 28046 
+Average iteration:	 16.917944116893104 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 38.02458333969116 secs 
+Total Progress:		 [____________________] 1.7643372092033829% 
+Current Progress:	 [#####_______________] 28.229395347254126% 
+Results Found:		 0 
+Active TODOs:		 39184 
+TODOs Completed:	 28309 
+Average iteration:	 16.937637208352477 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 43.430153369903564 secs 
+Total Progress:		 [____________________] 1.7673410496173534% 
+Current Progress:	 [#####_______________] 28.277456793877654% 
+Results Found:		 0 
+Active TODOs:		 39480 
+TODOs Completed:	 28581 
+Average iteration:	 16.96647407632659 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 48.977657079696655 secs 
+Total Progress:		 [____________________] 1.7697880159350494% 
+Current Progress:	 [#####_______________] 28.31660825496079% 
+Results Found:		 0 
+Active TODOs:		 39661 
+TODOs Completed:	 28877 
+Average iteration:	 16.989964952976475 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 54.11152935028076 secs 
+Total Progress:		 [____________________] 1.7723344820384295% 
+Current Progress:	 [#####_______________] 28.35735171261487% 
+Results Found:		 0 
+Active TODOs:		 39902 
+TODOs Completed:	 29149 
+Average iteration:	 17.014411027568922 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 59.6125271320343 secs 
+Total Progress:		 [____________________] 1.7765415921436143% 
+Current Progress:	 [#####_______________] 28.42466547429783% 
+Results Found:		 0 
+Active TODOs:		 40271 
+TODOs Completed:	 29432 
+Average iteration:	 17.054799284578696 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 4 mins, 4.944599151611328 secs 
+Total Progress:		 [____________________] 1.7807936664286244% 
+Current Progress:	 [#####_______________] 28.49269866285799% 
+Results Found:		 0 
+Active TODOs:		 40629 
+TODOs Completed:	 29710 
+Average iteration:	 17.095619197714793 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 4 mins, 10.47446608543396 secs 
+Total Progress:		 [____________________] 1.7851410891693311% 
+Current Progress:	 [#####_______________] 28.562257426709298% 
+Results Found:		 0 
+Active TODOs:		 40971 
+TODOs Completed:	 30002 
+Average iteration:	 17.13735445602558 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 4 mins, 15.787541151046753 secs 
+Total Progress:		 [____________________] 1.7889992975827156% 
+Current Progress:	 [#####_______________] 28.62398876132345% 
+Results Found:		 0 
+Active TODOs:		 41342 
+TODOs Completed:	 30334 
+Average iteration:	 17.17439325679407 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 4 mins, 21.665444135665894 secs 
+Total Progress:		 [____________________] 1.7945038347658835% 
+Current Progress:	 [#####_______________] 28.712061356254136% 
+Results Found:		 0 
+Active TODOs:		 41774 
+TODOs Completed:	 30675 
+Average iteration:	 17.227236813752484 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 4 mins, 26.874950170516968 secs 
+Total Progress:		 [____________________] 1.7980621444756064% 
+Current Progress:	 [#####_______________] 28.768994311609703% 
+Results Found:		 0 
+Active TODOs:		 42090 
+TODOs Completed:	 30951 
+Average iteration:	 17.261396586965823 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 4 mins, 32.103968143463135 secs 
+Total Progress:		 [____________________] 1.8021707157107623% 
+Current Progress:	 [#####_______________] 28.834731451372196% 
+Results Found:		 0 
+Active TODOs:		 42475 
+TODOs Completed:	 31285 
+Average iteration:	 17.30083887082332 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 4 mins, 37.917736291885376 secs 
+Total Progress:		 [____________________] 1.8058543810414718% 
+Current Progress:	 [#####_______________] 28.89367009666355% 
+Results Found:		 0 
+Active TODOs:		 42791 
+TODOs Completed:	 31607 
+Average iteration:	 17.33620205799813 
+Saving… 
+Starting at:		 2022-09-14 13:52:57.068259 
+
+Starting… 
+Position:			 (0, 0) 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 0.12595796585083008 secs 
+Total Progress:		 [____________________] 0.0% 
+Current Progress:	 [____________________] 0.0% 
+Results Found:		 0 
+Active TODOs:		 1642 
+TODOs Completed:	 750 
+Average iteration:	 0.0 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 0.45155811309814453 secs 
+Total Progress:		 [____________________] 1.5989718175612142% 
+Current Progress:	 [#####_______________] 25.583549080979427% 
+Results Found:		 0 
+Active TODOs:		 25896 
+TODOs Completed:	 16214 
+Average iteration:	 15.350129448587658 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 0.8795058727264404 secs 
+Total Progress:		 [____________________] 1.6873969528578405% 
+Current Progress:	 [#####_______________] 26.99835124572545% 
+Results Found:		 0 
+Active TODOs:		 32765 
+TODOs Completed:	 21869 
+Average iteration:	 16.19901074743527 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 1.1884729862213135 secs 
+Total Progress:		 [____________________] 1.752149635610549% 
+Current Progress:	 [#####_______________] 28.034394169768785% 
+Results Found:		 0 
+Active TODOs:		 38176 
+TODOs Completed:	 27005 
+Average iteration:	 16.82063650186127 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 4 mins, 1.7415127754211426 secs 
+Total Progress:		 [____________________] 1.7960963289981307% 
+Current Progress:	 [#####_______________] 28.73754126397009% 
+Results Found:		 0 
+Active TODOs:		 41943 
+TODOs Completed:	 30815 
+Average iteration:	 17.242524758382054 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 5 mins, 2.502959966659546 secs 
+Total Progress:		 [____________________] 1.8349950932827592% 
+Current Progress:	 [#####_______________] 29.359921492524148% 
+Results Found:		 0 
+Active TODOs:		 45366 
+TODOs Completed:	 34726 
+Average iteration:	 17.61595289551449 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 6 mins, 3.3124048709869385 secs 
+Total Progress:		 [____________________] 1.872154913560906% 
+Current Progress:	 [#####_______________] 29.954478616974495% 
+Results Found:		 0 
+Active TODOs:		 48521 
+TODOs Completed:	 38135 
+Average iteration:	 17.972687170184695 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 7 mins, 3.7461748123168945 secs 
+Total Progress:		 [____________________] 1.9013880157685532% 
+Current Progress:	 [######______________] 30.42220825229685% 
+Results Found:		 0 
+Active TODOs:		 50915 
+TODOs Completed:	 41316 
+Average iteration:	 18.25332495137811 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 8 mins, 4.239248991012573 secs 
+Total Progress:		 [____________________] 1.926049984583341% 
+Current Progress:	 [######______________] 30.816799753333456% 
+Results Found:		 0 
+Active TODOs:		 52991 
+TODOs Completed:	 44064 
+Average iteration:	 18.490079852000076 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 9 mins, 4.950162887573242 secs 
+Total Progress:		 [____________________] 1.9506106518070678% 
+Current Progress:	 [######______________] 31.209770428913085% 
+Results Found:		 0 
+Active TODOs:		 54919 
+TODOs Completed:	 46619 
+Average iteration:	 18.725862257347853 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 10 mins, 5.759276866912842 secs 
+Total Progress:		 [____________________] 1.9680920877008776% 
+Current Progress:	 [######______________] 31.489473403214042% 
+Results Found:		 0 
+Active TODOs:		 56214 
+TODOs Completed:	 49132 
+Average iteration:	 18.893684041928424 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 11 mins, 6.053767919540405 secs 
+Total Progress:		 [____________________] 1.9913497447937345% 
+Current Progress:	 [######______________] 31.861595916699752% 
+Results Found:		 0 
+Active TODOs:		 57933 
+TODOs Completed:	 51490 
+Average iteration:	 19.11695755001985 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 12 mins, 6.94974684715271 secs 
+Total Progress:		 [____________________] 2.0106581789342246% 
+Current Progress:	 [######______________] 32.170530862947594% 
+Results Found:		 0 
+Active TODOs:		 59263 
+TODOs Completed:	 53731 
+Average iteration:	 19.302318517768555 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 13 mins, 7.430057764053345 secs 
+Total Progress:		 [____________________] 2.023883856716285% 
+Current Progress:	 [######______________] 32.38214170746056% 
+Results Found:		 0 
+Active TODOs:		 60062 
+TODOs Completed:	 55764 
+Average iteration:	 19.42928502447634 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 14 mins, 8.18737506866455 secs 
+Total Progress:		 [____________________] 2.039929986674531% 
+Current Progress:	 [######______________] 32.638879786792494% 
+Results Found:		 0 
+Active TODOs:		 61036 
+TODOs Completed:	 57701 
+Average iteration:	 19.583327872075497 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 15 mins, 8.47107195854187 secs 
+Total Progress:		 [____________________] 2.0539468499686944% 
+Current Progress:	 [######______________] 32.86314959949911% 
+Results Found:		 0 
+Active TODOs:		 61756 
+TODOs Completed:	 59749 
+Average iteration:	 19.717889759699464 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 16 mins, 9.145238876342773 secs 
+Total Progress:		 [____________________] 2.0651907532100213% 
+Current Progress:	 [######______________] 33.04305205136034% 
+Results Found:		 0 
+Active TODOs:		 62231 
+TODOs Completed:	 61714 
+Average iteration:	 19.825831230816206 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 17 mins, 9.306801795959473 secs 
+Total Progress:		 [____________________] 1.991408998794027% 
+Current Progress:	 [######______________] 31.862543980704434% 
+Results Found:		 0 
+Active TODOs:		 80467 
+TODOs Completed:	 75089 
+Average iteration:	 19.11752638842266 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 18 mins, 9.754653930664062 secs 
+Total Progress:		 [____________________] 2.0143070113600907% 
+Current Progress:	 [######______________] 32.22891218176145% 
+Results Found:		 0 
+Active TODOs:		 86539 
+TODOs Completed:	 82036 
+Average iteration:	 19.33734730905687 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 19 mins, 10.00231385231018 secs 
+Total Progress:		 [____________________] 2.033842493476952% 
+Current Progress:	 [######______________] 32.541479895631234% 
+Results Found:		 0 
+Active TODOs:		 89685 
+TODOs Completed:	 86243 
+Average iteration:	 19.52488793737874 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 20 mins, 10.43314504623413 secs 
+Total Progress:		 [____________________] 2.0500931502514916% 
+Current Progress:	 [######______________] 32.801490404023866% 
+Results Found:		 0 
+Active TODOs:		 91653 
+TODOs Completed:	 89333 
+Average iteration:	 19.680894242414322 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 21 mins, 10.809564113616943 secs 
+Total Progress:		 [____________________] 2.066537316615948% 
+Current Progress:	 [######______________] 33.06459706585517% 
+Results Found:		 0 
+Active TODOs:		 93010 
+TODOs Completed:	 93108 
+Average iteration:	 19.8387582395131 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 22 mins, 11.62755799293518 secs 
+Total Progress:		 [____________________] 2.024757550638051% 
+Current Progress:	 [######______________] 32.396120810208814% 
+Results Found:		 0 
+Active TODOs:		 98982 
+TODOs Completed:	 96474 
+Average iteration:	 19.43767248612529 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 23 mins, 12.352327823638916 secs 
+Total Progress:		 [____________________] 2.0127361029200865% 
+Current Progress:	 [######______________] 32.203777646721385% 
+Results Found:		 0 
+Active TODOs:		 103453 
+TODOs Completed:	 99622 
+Average iteration:	 19.322266588032832 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 24 mins, 12.886929035186768 secs 
+Total Progress:		 [____________________] 2.009897234452522% 
+Current Progress:	 [######______________] 32.15835575124035% 
+Results Found:		 0 
+Active TODOs:		 107500 
+TODOs Completed:	 102939 
+Average iteration:	 19.29501345074421 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 25 mins, 13.948194026947021 secs 
+Total Progress:		 [____________________] 2.0121352222854787% 
+Current Progress:	 [######______________] 32.19416355656766% 
+Results Found:		 0 
+Active TODOs:		 110673 
+TODOs Completed:	 105623 
+Average iteration:	 19.316498133940595 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 26 mins, 14.208833932876587 secs 
+Total Progress:		 [____________________] 2.016358917004108% 
+Current Progress:	 [######______________] 32.26174267206573% 
+Results Found:		 0 
+Active TODOs:		 113138 
+TODOs Completed:	 108181 
+Average iteration:	 19.35704560323944 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 27 mins, 15.536722898483276 secs 
+Total Progress:		 [____________________] 2.0225557756974846% 
+Current Progress:	 [######______________] 32.36089241115975% 
+Results Found:		 0 
+Active TODOs:		 115615 
+TODOs Completed:	 110743 
+Average iteration:	 19.416535446695853 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 28 mins, 16.366127014160156 secs 
+Total Progress:		 [____________________] 2.029046946897505% 
+Current Progress:	 [######______________] 32.46475115036008% 
+Results Found:		 0 
+Active TODOs:		 117465 
+TODOs Completed:	 113227 
+Average iteration:	 19.47885069021605 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 29 mins, 17.457260847091675 secs 
+Total Progress:		 [____________________] 2.037115293312667% 
+Current Progress:	 [######______________] 32.59384469300267% 
+Results Found:		 0 
+Active TODOs:		 119371 
+TODOs Completed:	 115612 
+Average iteration:	 19.5563068158016 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 30 mins, 18.269829988479614 secs 
+Total Progress:		 [____________________] 2.0443298360574254% 
+Current Progress:	 [######______________] 32.709277376918806% 
+Results Found:		 0 
+Active TODOs:		 120727 
+TODOs Completed:	 117802 
+Average iteration:	 19.625566426151284 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 31 mins, 19.13169288635254 secs 
+Total Progress:		 [____________________] 2.051146220697166% 
+Current Progress:	 [######______________] 32.818339531154656% 
+Results Found:		 0 
+Active TODOs:		 121829 
+TODOs Completed:	 119682 
+Average iteration:	 19.691003718692794 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 32 mins, 20.107805728912354 secs 
+Total Progress:		 [____________________] 2.058332892243883% 
+Current Progress:	 [######______________] 32.933326275902125% 
+Results Found:		 0 
+Active TODOs:		 122801 
+TODOs Completed:	 121520 
+Average iteration:	 19.759995765541277 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 33 mins, 20.92094898223877 secs 
+Total Progress:		 [____________________] 2.0638012391403007% 
+Current Progress:	 [######______________] 33.02081982624481% 
+Results Found:		 0 
+Active TODOs:		 123403 
+TODOs Completed:	 123216 
+Average iteration:	 19.812491895746888 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 34 mins, 22.351727962493896 secs 
+Total Progress:		 [____________________] 2.050539816039565% 
+Current Progress:	 [######______________] 32.80863705663304% 
+Results Found:		 0 
+Active TODOs:		 125550 
+TODOs Completed:	 125211 
+Average iteration:	 19.685182233979823 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 35 mins, 24.220425844192505 secs 
+Total Progress:		 [____________________] 2.0341750063208517% 
+Current Progress:	 [######______________] 32.54680010113363% 
+Results Found:		 0 
+Active TODOs:		 129236 
+TODOs Completed:	 127315 
+Average iteration:	 19.528080060680175 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 36 mins, 25.84855008125305 secs 
+Total Progress:		 [____________________] 2.0274278414408946% 
+Current Progress:	 [######______________] 32.438845463054314% 
+Results Found:		 0 
+Active TODOs:		 131808 
+TODOs Completed:	 129023 
+Average iteration:	 19.463307277832588 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 37 mins, 27.555974006652832 secs 
+Total Progress:		 [____________________] 2.023458378038725% 
+Current Progress:	 [######______________] 32.3753340486196% 
+Results Found:		 0 
+Active TODOs:		 134227 
+TODOs Completed:	 130720 
+Average iteration:	 19.42520042917176 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 38 mins, 27.824265956878662 secs 
+Total Progress:		 [____________________] 2.02179325466959% 
+Current Progress:	 [######______________] 32.34869207471344% 
+Results Found:		 0 
+Active TODOs:		 136378 
+TODOs Completed:	 132427 
+Average iteration:	 19.409215244828065 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 39 mins, 29.649963855743408 secs 
+Total Progress:		 [____________________] 2.0213083048712983% 
+Current Progress:	 [######______________] 32.34093287794077% 
+Results Found:		 0 
+Active TODOs:		 137927 
+TODOs Completed:	 133799 
+Average iteration:	 19.404559726764465 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 40 mins, 30.767761707305908 secs 
+Total Progress:		 [____________________] 2.0218226385920777% 
+Current Progress:	 [######______________] 32.34916221747324% 
+Results Found:		 0 
+Active TODOs:		 139924 
+TODOs Completed:	 135306 
+Average iteration:	 19.409497330483944 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 41 mins, 31.5970458984375 secs 
+Total Progress:		 [____________________] 2.023199117925715% 
+Current Progress:	 [######______________] 32.37118588681144% 
+Results Found:		 0 
+Active TODOs:		 141813 
+TODOs Completed:	 136887 
+Average iteration:	 19.42271153208686 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 42 mins, 33.410313844680786 secs 
+Total Progress:		 [____________________] 2.02488466770556% 
+Current Progress:	 [######______________] 32.39815468328896% 
+Results Found:		 0 
+Active TODOs:		 143120 
+TODOs Completed:	 138432 
+Average iteration:	 19.438892809973375 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 43 mins, 35.25469207763672 secs 
+Total Progress:		 [____________________] 2.027648045027244% 
+Current Progress:	 [######______________] 32.4423687204359% 
+Results Found:		 0 
+Active TODOs:		 144761 
+TODOs Completed:	 139928 
+Average iteration:	 19.46542123226154 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 44 mins, 37.6268630027771 secs 
+Total Progress:		 [____________________] 2.0299870731100134% 
+Current Progress:	 [######______________] 32.479793169760214% 
+Results Found:		 0 
+Active TODOs:		 145951 
+TODOs Completed:	 141322 
+Average iteration:	 19.48787590185613 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 45 mins, 38.2605459690094 secs 
+Total Progress:		 [____________________] 2.032151363207247% 
+Current Progress:	 [######______________] 32.514421811315955% 
+Results Found:		 0 
+Active TODOs:		 146887 
+TODOs Completed:	 142131 
+Average iteration:	 19.508653086789575 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 46 mins, 39.769465923309326 secs 
+Total Progress:		 [____________________] 2.0339165774277506% 
+Current Progress:	 [######______________] 32.54266523884401% 
+Results Found:		 0 
+Active TODOs:		 147551 
+TODOs Completed:	 142967 
+Average iteration:	 19.525599143306405 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 47 mins, 41.52807116508484 secs 
+Total Progress:		 [____________________] 2.0371042371684034% 
+Current Progress:	 [######______________] 32.593667794694454% 
+Results Found:		 0 
+Active TODOs:		 148666 
+TODOs Completed:	 144413 
+Average iteration:	 19.556200676816673 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 48 mins, 44.178093910217285 secs 
+Total Progress:		 [____________________] 2.0408455060930564% 
+Current Progress:	 [######______________] 32.6535280974889% 
+Results Found:		 0 
+Active TODOs:		 149798 
+TODOs Completed:	 145836 
+Average iteration:	 19.592116858493338 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 49 mins, 46.64369511604309 secs 
+Total Progress:		 [____________________] 2.044723364052244% 
+Current Progress:	 [######______________] 32.71557382483591% 
+Results Found:		 0 
+Active TODOs:		 150852 
+TODOs Completed:	 147187 
+Average iteration:	 19.629344294901546 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 50 mins, 48.4486198425293 secs 
+Total Progress:		 [____________________] 2.0474124408897576% 
+Current Progress:	 [######______________] 32.75859905423612% 
+Results Found:		 0 
+Active TODOs:		 151437 
+TODOs Completed:	 148555 
+Average iteration:	 19.655159432541673 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 51 mins, 50.97406196594238 secs 
+Total Progress:		 [____________________] 2.0518770153263244% 
+Current Progress:	 [######______________] 32.83003224522119% 
+Results Found:		 0 
+Active TODOs:		 152391 
+TODOs Completed:	 149948 
+Average iteration:	 19.698019347132714 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 52 mins, 53.43897008895874 secs 
+Total Progress:		 [____________________] 2.0558123976623466% 
+Current Progress:	 [######______________] 32.892998362597545% 
+Results Found:		 0 
+Active TODOs:		 153091 
+TODOs Completed:	 151356 
+Average iteration:	 19.735799017558527 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 53 mins, 55.56530809402466 secs 
+Total Progress:		 [____________________] 2.0602136310340415% 
+Current Progress:	 [######______________] 32.963418096544665% 
+Results Found:		 0 
+Active TODOs:		 153801 
+TODOs Completed:	 152713 
+Average iteration:	 19.7780508579268 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 54 mins, 56.8409378528595 secs 
+Total Progress:		 [____________________] 2.063793136975291% 
+Current Progress:	 [######______________] 33.02069019160466% 
+Results Found:		 0 
+Active TODOs:		 154290 
+TODOs Completed:	 153971 
+Average iteration:	 19.812414114962795 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 55 mins, 59.48753786087036 secs 
+Total Progress:		 [____________________] 2.0616010046598845% 
+Current Progress:	 [######______________] 32.98561607455815% 
+Results Found:		 0 
+Active TODOs:		 155082 
+TODOs Completed:	 155266 
+Average iteration:	 19.79136964473489 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 57 mins, 2.371175765991211 secs 
+Total Progress:		 [____________________] 2.048386679014617% 
+Current Progress:	 [######______________] 32.77418686423387% 
+Results Found:		 0 
+Active TODOs:		 157678 
+TODOs Completed:	 156469 
+Average iteration:	 19.66451211854032 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 58 mins, 5.075121879577637 secs 
+Total Progress:		 [____________________] 2.0413248906838652% 
+Current Progress:	 [######______________] 32.661198250941844% 
+Results Found:		 0 
+Active TODOs:		 159720 
+TODOs Completed:	 157700 
+Average iteration:	 19.596718950565105 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 59 mins, 7.381030797958374 secs 
+Total Progress:		 [____________________] 2.036390595545986% 
+Current Progress:	 [######______________] 32.58224952873577% 
+Results Found:		 0 
+Active TODOs:		 161647 
+TODOs Completed:	 158880 
+Average iteration:	 19.549349717241466 
+Saving… 
+
+Running… 
+Time Elapsed:		 1 hrs, 0 mins, 3609.889081954956 secs 
+Total Progress:		 [____________________] 2.033090072723193% 
+Current Progress:	 [######______________] 32.529441163571086% 
+Results Found:		 0 
+Active TODOs:		 163420 
+TODOs Completed:	 160069 
+Average iteration:	 19.517664698142653 
+Saving… 
+
+Running… 
+Time Elapsed:		 1 hrs, 1 mins, 3611.172534942627 secs 
+Total Progress:		 [____________________] 2.030503504559859% 
+Current Progress:	 [######______________] 32.48805607295775% 
+Results Found:		 0 
+Active TODOs:		 165377 
+TODOs Completed:	 161282 
+Average iteration:	 19.492833643774645 
+Saving… 
+Starting at:		 2022-09-15 11:15:40.646265 
+
+Starting… 
+Position:			 (0, 0) 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 0.1555161476135254 secs 
+Total Progress:		 [____________________] 0.0% 
+Current Progress:	 [____________________] 0.0% 
+Results Found:		 0 
+Active TODOs:		 2219 
+TODOs Completed:	 1005 
+Average iteration:	 0.0 
+Saving… 
+Starting at:		 2022-09-15 11:23:52.658226 
+
+Starting… 
+Position:			 (0, 0) 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 0.16149091720581055 secs 
+Total Progress:		 [____________________] 0.0% 
+Current Progress:	 [____________________] 0.0% 
+Results Found:		 0 
+Active TODOs:		 1901 
+TODOs Completed:	 898 
+Average iteration:	 0.0 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 0.5422999858856201 secs 
+Total Progress:		 [____________________] 1.6266747387735165% 
+Current Progress:	 [#####_______________] 26.026795820376265% 
+Results Found:		 0 
+Active TODOs:		 28038 
+TODOs Completed:	 18106 
+Average iteration:	 15.616077492225758 
+Saving… 
+Starting at:		 2022-09-15 11:25:20.513561 
+
+Starting… 
+Position:			 (0, 0) 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 0.1867351531982422 secs 
+Total Progress:		 [____________________] 0.0% 
+Current Progress:	 [____________________] 0.0% 
+Results Found:		 0 
+Active TODOs:		 2096 
+TODOs Completed:	 938 
+Average iteration:	 0.0 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 10.66025710105896 secs 
+Total Progress:		 [____________________] 1.4073145733483696% 
+Current Progress:	 [####________________] 22.517033173573914% 
+Results Found:		 0 
+Active TODOs:		 14364 
+TODOs Completed:	 7882 
+Average iteration:	 13.510219904144348 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 21.16875696182251 secs 
+Total Progress:		 [____________________] 1.4847984302209656% 
+Current Progress:	 [####________________] 23.75677488353545% 
+Results Found:		 0 
+Active TODOs:		 18534 
+TODOs Completed:	 10898 
+Average iteration:	 14.254064930121269 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 31.686163902282715 secs 
+Total Progress:		 [____________________] 1.5419167655650905% 
+Current Progress:	 [####________________] 24.670668249041448% 
+Results Found:		 0 
+Active TODOs:		 21991 
+TODOs Completed:	 13242 
+Average iteration:	 14.802400949424868 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 42.296481132507324 secs 
+Total Progress:		 [____________________] 1.581315135806469% 
+Current Progress:	 [#####_______________] 25.301042172903504% 
+Results Found:		 0 
+Active TODOs:		 24785 
+TODOs Completed:	 15199 
+Average iteration:	 15.180625303742103 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 0 mins, 52.97116708755493 secs 
+Total Progress:		 [____________________] 1.611578301652379% 
+Current Progress:	 [#####_______________] 25.785252826438064% 
+Results Found:		 0 
+Active TODOs:		 26910 
+TODOs Completed:	 16967 
+Average iteration:	 15.47115169586284 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 3.5821990966796875 secs 
+Total Progress:		 [____________________] 1.6326700853500056% 
+Current Progress:	 [#####_______________] 26.12272136560009% 
+Results Found:		 0 
+Active TODOs:		 28517 
+TODOs Completed:	 18566 
+Average iteration:	 15.673632819360051 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 14.10111403465271 secs 
+Total Progress:		 [____________________] 1.6578674735166585% 
+Current Progress:	 [#####_______________] 26.525879576266536% 
+Results Found:		 0 
+Active TODOs:		 30413 
+TODOs Completed:	 19956 
+Average iteration:	 15.91552774575992 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 24.680732011795044 secs 
+Total Progress:		 [____________________] 1.6788936409327881% 
+Current Progress:	 [#####_______________] 26.86229825492461% 
+Results Found:		 0 
+Active TODOs:		 32061 
+TODOs Completed:	 21280 
+Average iteration:	 16.117378952954766 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 35.245182037353516 secs 
+Total Progress:		 [____________________] 1.695591473377969% 
+Current Progress:	 [#####_______________] 27.129463574047502% 
+Results Found:		 0 
+Active TODOs:		 33491 
+TODOs Completed:	 22540 
+Average iteration:	 16.277678144428503 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 45.902052879333496 secs 
+Total Progress:		 [____________________] 1.7079204334724156% 
+Current Progress:	 [#####_______________] 27.32672693555865% 
+Results Found:		 0 
+Active TODOs:		 34558 
+TODOs Completed:	 23755 
+Average iteration:	 16.39603616133519 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 1 mins, 56.67689299583435 secs 
+Total Progress:		 [____________________] 1.7274629967979773% 
+Current Progress:	 [#####_______________] 27.639407948767637% 
+Results Found:		 0 
+Active TODOs:		 36191 
+TODOs Completed:	 24885 
+Average iteration:	 16.58364476926058 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 7.296683073043823 secs 
+Total Progress:		 [____________________] 1.7406214974221026% 
+Current Progress:	 [#####_______________] 27.84994395875364% 
+Results Found:		 0 
+Active TODOs:		 37237 
+TODOs Completed:	 26002 
+Average iteration:	 16.709966375252186 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 18.126847982406616 secs 
+Total Progress:		 [____________________] 1.7527017385384758% 
+Current Progress:	 [#####_______________] 28.043227816615612% 
+Results Found:		 0 
+Active TODOs:		 38234 
+TODOs Completed:	 27079 
+Average iteration:	 16.825936689969367 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 28.944324016571045 secs 
+Total Progress:		 [____________________] 1.7624662540260227% 
+Current Progress:	 [#####_______________] 28.199460064416364% 
+Results Found:		 0 
+Active TODOs:		 39051 
+TODOs Completed:	 28119 
+Average iteration:	 16.91967603864982 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 39.67310118675232 secs 
+Total Progress:		 [____________________] 1.771693480243288% 
+Current Progress:	 [#####_______________] 28.347095683892608% 
+Results Found:		 0 
+Active TODOs:		 39876 
+TODOs Completed:	 29099 
+Average iteration:	 17.008257410335567 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 2 mins, 50.40233302116394 secs 
+Total Progress:		 [____________________] 1.785247258557855% 
+Current Progress:	 [#####_______________] 28.56395613692568% 
+Results Found:		 0 
+Active TODOs:		 40989 
+TODOs Completed:	 30042 
+Average iteration:	 17.138373682155407 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 1.2020020484924316 secs 
+Total Progress:		 [____________________] 1.7975714602963104% 
+Current Progress:	 [#####_______________] 28.761143364740967% 
+Results Found:		 0 
+Active TODOs:		 42091 
+TODOs Completed:	 30962 
+Average iteration:	 17.25668601884458 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 12.062877893447876 secs 
+Total Progress:		 [____________________] 1.8092404384905896% 
+Current Progress:	 [#####_______________] 28.947847015849433% 
+Results Found:		 0 
+Active TODOs:		 43104 
+TODOs Completed:	 31875 
+Average iteration:	 17.36870820950966 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 22.947301864624023 secs 
+Total Progress:		 [____________________] 1.818200814564907% 
+Current Progress:	 [#####_______________] 29.09121303303851% 
+Results Found:		 0 
+Active TODOs:		 43887 
+TODOs Completed:	 32750 
+Average iteration:	 17.454727819823106 
+Saving… 
+
+Running… 
+Time Elapsed:		 0 hrs, 3 mins, 33.81195020675659 secs 
+Total Progress:		 [____________________] 1.8258915546378798% 
+Current Progress:	 [#####_______________] 29.214264874206076% 
+Results Found:		 0 
+Active TODOs:		 44592 
+TODOs Completed:	 33602 
+Average iteration:	 17.528558924523644 
+Saving… 
